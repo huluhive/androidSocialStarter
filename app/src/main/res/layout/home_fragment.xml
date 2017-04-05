@@ -6,9 +6,7 @@
 <TextView
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:text="Huluhive is incredibly especially extremely incredibly  good web design and development company.
-Huluhive technology is an effective and highly professional web service company offering a wide range services to our clients throughout the world. We particularly specialize in interactive design Search Engine Optimization and Online marketing Services as well as offering a wide range of consulting services. We work to provide creative and affordable solutions for medium to large business concerns.
-"
+    android:text="@string/huluhive_is_incredibly_especially_extremely_incredibly_good_web_design_and_development_company_huluhive_technology_is_an_effective_and_highly_professional_web_service_company_offering_a_wide_range_services_to_our_clients_throughout_the_world_we_particularly_specialize_in_interactive_design_search_engine_optimization_and_online_marketing_services_as_well_as_offering_a_wide_range_of_consulting_services_we_work_to_provide_creative_and_affordable_solutions_for_medium_to_large_business_concerns"
     android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
     android:padding="15dp"/>
 </LinearLayout>
