@@ -1,7 +1,9 @@
 {
   "project_info": {
     "project_number": "1025791766514",
-    "project_id": "project-3869012036827527447"
+    "firebase_url": "https://project-3869012036827527447.firebaseio.com",
+    "project_id": "project-3869012036827527447",
+    "storage_bucket": "project-3869012036827527447.appspot.com"
   },
   "client": [
     {
@@ -12,6 +14,10 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "1025791766514-td782ifr4br5us547mavaohgpc6vhl8b.apps.googleusercontent.com",
+          "client_type": 3
+        },
         {
           "client_id": "1025791766514-rgchho38c04qbej856ka5v21ejja2r5v.apps.googleusercontent.com",
           "client_type": 3
@@ -35,11 +41,64 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025791766514-td782ifr4br5us547mavaohgpc6vhl8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025791766514:android:4a043e6c878f2dda",
+        "android_client_info": {
+          "package_name": "com.huluhive.user.fbandgooglelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025791766514-2baejp274scffb71rqtm6oads8huljot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.huluhive.user.fbandgooglelogin",
+            "certificate_hash": "81d46f74963d3f2a4296648691ec407b672734e7"
+          }
+        },
+        {
+          "client_id": "1025791766514-td782ifr4br5us547mavaohgpc6vhl8b.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1025791766514-rgchho38c04qbej856ka5v21ejja2r5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcc-c9aVPhFN9htniutktgtTU9E7q-KF8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
           "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025791766514-td782ifr4br5us547mavaohgpc6vhl8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
         }
       }
     }
